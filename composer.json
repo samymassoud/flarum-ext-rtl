@@ -14,7 +14,7 @@
         "flarum-extension": {
             "title": "RTL",
             "icon": {
-                
+				"image": "icon.svg",
                 "backgroundColor": "#00247d",
                 "backgroundSize": "cover",
                 "backgroundPosition": "center"
