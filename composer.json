@@ -1,0 +1,24 @@
+{
+    "name": "flarumarabia/flarum-ext-rtl",
+    "type": "flarum-extension",
+    "description": "RTL Extension.",
+    "keywords": ["RTL"],
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^0.1.0-beta.5"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        },
+        "flarum-extension": {
+            "title": "RTL",
+            "icon": {
+                
+                "backgroundColor": "#00247d",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center"
+            }
+        }
+    }
+}
