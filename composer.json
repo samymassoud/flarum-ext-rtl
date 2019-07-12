@@ -1,5 +1,5 @@
 {
-    "name": "flarumarabia/flarum-ext-rtl",
+    "name": "custom-local/rtl-ext",
     "type": "flarum-extension",
     "description": "RTL Extension.",
     "keywords": ["RTL"],
