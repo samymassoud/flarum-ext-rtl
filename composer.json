@@ -5,7 +5,7 @@
     "keywords": ["RTL"],
     "license": "MIT",
     "require": {
-        "flarum/core": "^0.1.0-beta.5"
+        "flarum/core": "^0.1.3"
     },
     "extra": {
         "branch-alias": {
@@ -14,7 +14,7 @@
         "flarum-extension": {
             "title": "RTL",
             "icon": {
-				"image": "icon.svg",
+		"image": "icon.svg",
                 "backgroundColor": "#00247d",
                 "backgroundSize": "cover",
                 "backgroundPosition": "center"
